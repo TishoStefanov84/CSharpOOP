@@ -1,0 +1,13 @@
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

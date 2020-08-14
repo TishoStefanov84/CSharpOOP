@@ -1,0 +1,13 @@
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csprojAssemblyReference.cache
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\tisho\softuni\OOP\Exams\Exam15Dec2019\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKp7lkYXDapRCP0SbbKutl/vKy2wY6cixbb2GuPu3bcrf4xJTO+V9d8Z6f6TAVH0t0m55eBAuVpOTD+RUbakig==",
+  "success": true,
+  "projectFilePath": "C:\\tisho\\softuni\\OOP\\Exams\\Exam15Dec2019\\AquaShop\\AquaShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
