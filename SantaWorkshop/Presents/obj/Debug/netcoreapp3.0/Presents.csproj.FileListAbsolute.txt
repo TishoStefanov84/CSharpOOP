@@ -1,0 +1,13 @@
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\obj\Debug\netcoreapp3.0\Presents.csprojAssemblyReference.cache
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\tisho\softuni\OOP\Exams\Exam19Dec2019\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
