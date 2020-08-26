@@ -1,0 +1,13 @@
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\obj\Debug\netcoreapp3.0\Robots.csprojAssemblyReference.cache
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+C:\tisho\softuni\OOP\Exams\Exam12Apr2020\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VU1FuWN9UfwrFYNsPIcB6AZRsbC+AsP1fFhP89EwlJrMsi4XdnhgnCcCAOufoMzFEXTWXZiazWz0gxK2kyOwWw==",
+  "success": true,
+  "projectFilePath": "C:\\tisho\\softuni\\OOP\\Exams\\Exam12Apr2020\\Robots\\Robots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\tihom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
